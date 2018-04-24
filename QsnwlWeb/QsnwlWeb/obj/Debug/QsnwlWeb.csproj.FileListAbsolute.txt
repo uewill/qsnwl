@@ -1,3 +1,4 @@
+D:\GitNowWork\qsnwl\QsnwlWeb\QsnwlWeb\obj\Debug\QsnwlWeb.csprojResolveAssemblyReference.cache
 D:\GitNowWork\qsnwl\QsnwlWeb\QsnwlWeb\bin\roslyn\csc.exe
 D:\GitNowWork\qsnwl\QsnwlWeb\QsnwlWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
 D:\GitNowWork\qsnwl\QsnwlWeb\QsnwlWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
@@ -16,6 +17,10 @@ D:\GitNowWork\qsnwl\QsnwlWeb\QsnwlWeb\bin\QsnwlWeb.pdb
 D:\GitNowWork\qsnwl\QsnwlWeb\QsnwlWeb\bin\Antlr3.Runtime.dll
 D:\GitNowWork\qsnwl\QsnwlWeb\QsnwlWeb\bin\AspNet.ScriptManager.bootstrap.dll
 D:\GitNowWork\qsnwl\QsnwlWeb\QsnwlWeb\bin\AspNet.ScriptManager.jQuery.dll
+D:\GitNowWork\qsnwl\QsnwlWeb\QsnwlWeb\bin\DevExpress.Data.v9.2.dll
+D:\GitNowWork\qsnwl\QsnwlWeb\QsnwlWeb\bin\DevExpress.Web.ASPxThemes.v9.2.dll
+D:\GitNowWork\qsnwl\QsnwlWeb\QsnwlWeb\bin\DevExpress.Web.v9.2.dll
+D:\GitNowWork\qsnwl\QsnwlWeb\QsnwlWeb\bin\log4net.dll
 D:\GitNowWork\qsnwl\QsnwlWeb\QsnwlWeb\bin\Microsoft.AspNet.FriendlyUrls.dll
 D:\GitNowWork\qsnwl\QsnwlWeb\QsnwlWeb\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
 D:\GitNowWork\qsnwl\QsnwlWeb\QsnwlWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
@@ -25,13 +30,17 @@ D:\GitNowWork\qsnwl\QsnwlWeb\QsnwlWeb\bin\Microsoft.Web.Infrastructure.dll
 D:\GitNowWork\qsnwl\QsnwlWeb\QsnwlWeb\bin\Newtonsoft.Json.dll
 D:\GitNowWork\qsnwl\QsnwlWeb\QsnwlWeb\bin\System.Web.Optimization.dll
 D:\GitNowWork\qsnwl\QsnwlWeb\QsnwlWeb\bin\WebGrease.dll
+D:\GitNowWork\qsnwl\QsnwlWeb\QsnwlWeb\bin\EnvDTE.dll
+D:\GitNowWork\qsnwl\QsnwlWeb\QsnwlWeb\bin\stdole.dll
+D:\GitNowWork\qsnwl\QsnwlWeb\QsnwlWeb\bin\DevExpress.Data.v9.2.xml
+D:\GitNowWork\qsnwl\QsnwlWeb\QsnwlWeb\bin\DevExpress.Web.v9.2.xml
 D:\GitNowWork\qsnwl\QsnwlWeb\QsnwlWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
 D:\GitNowWork\qsnwl\QsnwlWeb\QsnwlWeb\bin\System.Web.Optimization.xml
 D:\GitNowWork\qsnwl\QsnwlWeb\QsnwlWeb\bin\Antlr3.Runtime.pdb
 D:\GitNowWork\qsnwl\QsnwlWeb\QsnwlWeb\bin\Newtonsoft.Json.xml
 D:\GitNowWork\qsnwl\QsnwlWeb\QsnwlWeb\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\GitNowWork\qsnwl\QsnwlWeb\QsnwlWeb\bin\EnvDTE.xml
 D:\GitNowWork\qsnwl\QsnwlWeb\QsnwlWeb\bin\zh-Hans\System.Web.Optimization.resources.dll
 D:\GitNowWork\qsnwl\QsnwlWeb\QsnwlWeb\bin\zh-Hans\Microsoft.AspNet.FriendlyUrls.resources.dll
 D:\GitNowWork\qsnwl\QsnwlWeb\QsnwlWeb\obj\Debug\QsnwlWeb.dll
 D:\GitNowWork\qsnwl\QsnwlWeb\QsnwlWeb\obj\Debug\QsnwlWeb.pdb
-D:\GitNowWork\qsnwl\QsnwlWeb\QsnwlWeb\obj\Debug\QsnwlWeb.csprojResolveAssemblyReference.cache

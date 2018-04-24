@@ -1,0 +1,13 @@
+D:\GitNowWork\qsnwl\QsnwlWeb\BLL\bin\Debug\TFXK.BLL.dll
+D:\GitNowWork\qsnwl\QsnwlWeb\BLL\bin\Debug\TFXK.BLL.pdb
+D:\GitNowWork\qsnwl\QsnwlWeb\BLL\bin\Debug\CodematicDemo.IDAL.dll
+D:\GitNowWork\qsnwl\QsnwlWeb\BLL\bin\Debug\TFXK.Common.dll
+D:\GitNowWork\qsnwl\QsnwlWeb\BLL\bin\Debug\TFXK.DALFactory.dll
+D:\GitNowWork\qsnwl\QsnwlWeb\BLL\bin\Debug\TFXK.Model.dll
+D:\GitNowWork\qsnwl\QsnwlWeb\BLL\bin\Debug\TFXK.Common.pdb
+D:\GitNowWork\qsnwl\QsnwlWeb\BLL\bin\Debug\TFXK.DALFactory.pdb
+D:\GitNowWork\qsnwl\QsnwlWeb\BLL\bin\Debug\CodematicDemo.IDAL.pdb
+D:\GitNowWork\qsnwl\QsnwlWeb\BLL\bin\Debug\TFXK.Model.pdb
+D:\GitNowWork\qsnwl\QsnwlWeb\BLL\obj\Debug\TFXK.BLL.csprojResolveAssemblyReference.cache
+D:\GitNowWork\qsnwl\QsnwlWeb\BLL\obj\Debug\TFXK.BLL.dll
+D:\GitNowWork\qsnwl\QsnwlWeb\BLL\obj\Debug\TFXK.BLL.pdb

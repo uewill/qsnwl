@@ -1,0 +1,5 @@
+D:\workplace\广安科塔\CDSFKJ\Common\bin\Release\CDSFKJ.Common.dll
+D:\workplace\广安科塔\CDSFKJ\Common\bin\Release\CDSFKJ.Common.pdb
+D:\workplace\广安科塔\CDSFKJ\Common\obj\Release\ResolveAssemblyReference.cache
+D:\workplace\广安科塔\CDSFKJ\Common\obj\Release\CDSFKJ.Common.dll
+D:\workplace\广安科塔\CDSFKJ\Common\obj\Release\CDSFKJ.Common.pdb
